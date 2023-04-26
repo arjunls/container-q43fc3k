@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "arjunls",
+  "repo": "container-q43fc3k",
+  "name": "arjunls",
+  "email": "arjunwijaya41@gmail.com",
+}
